@@ -18,4 +18,4 @@ class Gimme_Instance:
         except:
             print("Invalid subreddit")
 
-x=Gimme_Instance()
+
