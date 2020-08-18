@@ -1,5 +1,4 @@
 import requests
-global mainurl
 mainurl="https://meme-api.herokuapp.com/gimme"
 class Gimme_Instance:
     def __init__(self,subreddit='',warnings=True): #generates api instance and gets data into variables
